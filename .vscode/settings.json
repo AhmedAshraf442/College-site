@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "env/.gitignore": true,
+    "env/Lib": true,
+    "env/pyvenv.cfg": true,
+    "env/Scripts": true,
+    ".idea": true,
+    ".vscode": true
+  }
+}
